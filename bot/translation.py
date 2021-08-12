@@ -51,9 +51,9 @@ class Translation(object):
     
     ABOUT_TEXT = """<b>➥ 📃Name</b> : <b>Pro Auto Filter Bot</b>
 
-<b>>➥👨‍💼Master</b> : <b><a href="https://t.me/Makerwith">👤Albert Einstein</a></b>
+<b>>➥👨‍💼Master</b> : <b><a href="https://t.me/Makerwith"©️Irfan</a></b>
 
-
+<b>>➥🧿Channel</b> : <b><a href="https://t.me/closechapters2_0">Closechapters</a></b>
 
 <b>➥ 🗣️Language</b> : <b>Python3<b>
 
