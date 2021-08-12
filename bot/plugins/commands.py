@@ -167,7 +167,7 @@ async def about(bot, update):
         InlineKeyboardButton('👤 Irfan TG👤', url='https://t.me/Makerwith'),
         InlineKeyboardButton('Dude👤', url='https://t.me/Itmaywill')
     ],[
-        InlineKeyboardButton('👤 SOURCE CODE 👤', url='https://t.me/joinchat/eZk8OSmHwR5jYTJl')
+        InlineKeyboardButton('🖥️ SOURCE CODE 🖥️', url='https://t.me/joinchat/eZk8OSmHwR5jYTJl')
     ],[
         InlineKeyboardButton('🏠 Home', callback_data='start'),
         InlineKeyboardButton('Close 🔐', callback_data='close')
