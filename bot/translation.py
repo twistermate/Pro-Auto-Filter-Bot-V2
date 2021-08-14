@@ -6,11 +6,12 @@ class Translation(object):
     
     START_TEXT = """<b>🙋‍♂️Hey {}!!</b>
 
-<b>I am a AutoFilterBot....😜</b>
-
+<b>I Aᴍ A Aᴜᴛᴏ Fɪʟᴛᴇʀ Bᴏᴛ....😉</b>
 <b>
 Dᴏɴ'ᴛ Wᴀsᴛᴇ ʏᴏᴜʀ Tɪᴍᴇ, I'ᴍ Sᴘᴇᴄɪᴀʟʟʏ Mᴀᴅᴇ Fᴏʀ My Group</b>
+
 <b>sᴏ, ʏᴏᴜ ᴄᴀɴ'ᴛ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ 😜</b>
+
 <b>Managed By </b> : <b><a href="https://t.me/Makerwith">Irfan</a></b>"""    
     
     HELP_TEXT = """
