@@ -6,15 +6,15 @@ class Translation(object):
     
     START_TEXT = """<b>🙋‍♂️Hey {}!!</b>
 
-<b>I am a Pro AutoFilterBot V2....😜</b>
+<b>I am a AutoFilterBot....😜</b>
 
-<b>Make me an admin for your group and channel then connect me....🎉</b>
+<b>Iam made for Closechapters🎉</b>
 
-<b>🙂Watch the video below to build an Pro Autofilter bot V2 like me...</b>
+<b>AND FOR MOVIE LOVERZ GROUP...</b>
 
-<b>Subscribe to the update channel to learn about my updates and activity...</b>
+<b>Join my Channel @closechapters2_0...</b>
 
-<b>Press /help to know about available commands🤪</b>"""    
+<b>Managed By </b> : <b><a href="https://t.me/Makerwith">Irfan</a></b>"""    
     
     HELP_TEXT = """
 <b>😉How To Use Me!😉?</b>
