@@ -8,7 +8,8 @@ class Translation(object):
 
 <b>I am a AutoFilterBot....😜</b>
 
-<b>Iam made for Closechapters🎉</b>
+<b>
+Dᴏɴ'ᴛ Wᴀsᴛᴇ ʏᴏᴜʀ Tɪᴍᴇ, I'ᴍ Sᴘᴇᴄɪᴀʟʟʏ Mᴀᴅᴇ Fᴏʀ My Group</b>
 
 <b>AND FOR MOVIE LOVERZ GROUP...</b>
 
