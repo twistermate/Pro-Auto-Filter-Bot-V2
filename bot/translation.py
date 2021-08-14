@@ -10,11 +10,7 @@ class Translation(object):
 
 <b>
 Dᴏɴ'ᴛ Wᴀsᴛᴇ ʏᴏᴜʀ Tɪᴍᴇ, I'ᴍ Sᴘᴇᴄɪᴀʟʟʏ Mᴀᴅᴇ Fᴏʀ My Group</b>
-
-<b>AND FOR MOVIE LOVERZ GROUP...</b>
-
-<b>Join my Channel @closechapters2_0...</b>
-
+<b>sᴏ, ʏᴏᴜ ᴄᴀɴ'ᴛ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ 😜</b>
 <b>Managed By </b> : <b><a href="https://t.me/Makerwith">Irfan</a></b>"""    
     
     HELP_TEXT = """
